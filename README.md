@@ -1,4 +1,7 @@
 # unity-save-load-json
+
+This is a snippet from a larger Unity project meant to showcase the Save/Load functionality.
+
 Serializing Save Data to JSON, loading it from that file, and Delete operations from in-game
 
 Save Data - Handler for all the data types that are saved
